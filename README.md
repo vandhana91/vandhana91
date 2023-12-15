@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Insurance**
 
-- 🌱 I’m currently learning **ReactJs,NodeJS,Javascript**
+- 🌱 I’m currently learning **Python, data science**
 
-- 👯 I’m looking to collaborate on **reactJS**
+- 👯 I’m looking to collaborate on **Python**
 
 - 🤝 I’m looking for help with **API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vandhana91](https://github.com/vandhana91)
 
-- 💬 Ask me about **react, nodejs, bigquery**
+- 💬 Ask me about **sql, bigquery ,python**
 
 - 📫 How to reach me **ksvandhana91@gmail.com**
 
